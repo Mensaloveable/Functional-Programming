@@ -1,4 +1,4 @@
-package com.loveable.PredicateDemo;
+package com.loveable.LambdaExpression;
 
 @FunctionalInterface
 public interface Cab {
