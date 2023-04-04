@@ -1,1 +1,16 @@
 Lambda Expression is an anonymous function i.e, It has no name, no return type and no access modifier.
+
+It's advantages are
+    i. Functional Programming features
+    ii. Code optimization / concise code
+
+Lambda Expression can only be used through functional interfaces.
+
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+
+Functional Interfaces are interfaces with Single Abstract Method(SAM) but can contain multiple default and static methods.
+Examples:
+    Runnable ---------> run()
+    Callable ---------> call()
+    Comparable -------> compareTo()
+    ActionListener ---> actionPerformed()
