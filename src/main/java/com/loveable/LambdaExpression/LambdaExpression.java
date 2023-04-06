@@ -12,7 +12,7 @@ public class LambdaExpression {
             System.out.println("Your ride is from " + pickup + " to " + destination);
             return "Price = 5000";
         };
-
-        System.out.println(taxi.taxi("New York", "Dubai"));
+        String trip = taxi.taxi("New York", "Dubai");
+        System.out.println(trip);
     }
 }

@@ -14,3 +14,10 @@ Examples:
     Callable ---------> call()
     Comparable -------> compareTo()
     ActionListener ---> actionPerformed()
+
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+
+Predefined Functional Interfaces
+
+    i. Predicate -----> test()
+    ii.Function
