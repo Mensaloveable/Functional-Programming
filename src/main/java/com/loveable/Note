@@ -19,5 +19,5 @@ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X 
 
 Predefined Functional Interfaces
 
-    i. Predicate -----> test()
-    ii.Function
+    Predicate -----> test()
+    Function ------> apply()
